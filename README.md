@@ -1,5 +1,7 @@
 # Understanding Synonymous Referring Expressions via Contrastive Features
 
+[[Paper]](https://arxiv.org/abs/2104.10156)
+
 PyTorch implementation of our method for localizing the object in an image specified by a natural language description.
 
 Contact: Yi-Wen Chen (ychen319@ucmerced.edu)
@@ -18,7 +20,7 @@ We demonstrate that our method performs favorably against the state-of-the-art a
 
 ## Paper
 
-Understanding Synonymous Referring Expressions via Contrastive Features <br />
+[Understanding Synonymous Referring Expressions via Contrastive Features](https://arxiv.org/abs/2104.10156) <br />
 [Yi-Wen Chen](https://wenz116.github.io/), [Yi-Hsuan Tsai](https://sites.google.com/site/yihsuantsai/home), and [Ming-Hsuan Yang](http://faculty.ucmerced.edu/mhyang/index.html) <br />
 *ArXiv pre-print*, 2021 <br />
 
