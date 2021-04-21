@@ -27,7 +27,7 @@ Please cite our paper if you find it useful for your research.
 ```
 @inproceedings{Chen_RefContrast_2021,
   author = {Yi-Wen Chen and Yi-Hsuan Tsai and Ming-Hsuan Yang},
-  journal = {arXiv preprint arXiv:},
+  journal = {arXiv preprint arXiv:2104.10156},
   title = {Understanding Synonymous Referring Expressions via Contrastive Features},
   year = {2021}
 }
